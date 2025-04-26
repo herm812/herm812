@@ -1,5 +1,7 @@
 ## Hi there 👋
-- ⚡ Fun fact: I started years ago with an Atari 800 computer learning BASIC.  It just keeps going from there.
+- ⚡ Fun fact: I started years ago with an Atari 800 computer learning BASIC.  In college I learned Fortran
+-  on a Vax/VMS machine.  Then excel Visual Basic to enhance my work on spreadsheets.  Since then I moved
+-  along to Python while bored during the COVID thing.  Now, it just keeps going from there.
 - Just trying to figure out what all the hype is about github.  So far, I can't really see much for it.
 - maybe my thoughts will change after I have been here for a while.
 <!--
